@@ -1,0 +1,13 @@
+# Default
+ipython[all]
+numpy
+pandas
+
+# Database
+psycopg2  # PostgreSQL
+mysqlclient  # MySQL
+
+# Crawling
+requests
+beautifulsoup4
+selenium
