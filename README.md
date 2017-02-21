@@ -1,2 +1,5 @@
-# data-science-school
-패스트캠퍼스 데이터 사이언스 SCHOOL 강의자료
+# pydata-101
+
+파이썬을 이용한 데이터 분석
+
+- Repository: [https://github.com/dobestan/pydata-101](https://github.com/dobestan/pydata-101)
